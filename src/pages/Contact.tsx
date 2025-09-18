@@ -30,9 +30,9 @@ const Contact = () => {
     setIsSubmitting(true);
 
     try {
-      const serviceId = 'service_p02c1k9';
-      const templateId = 'template_t7apb1m';
-      const publicKey = 'jDNSkiylmD173Cah5';
+      const serviceId = 'service_bg45roq';
+      const templateId = 'template_zis563i';
+      const publicKey = 'Hm4Sc1tSTuTWkKdv-';
 
       const templateParams = {
         from_name: formData.name,
